@@ -6,3 +6,9 @@
   function test(){
 
   }
+```
+## java 코드
+```java
+  int num=10;
+  Scanner scan=new Scanner(System.in);
+```
